@@ -1,0 +1,58 @@
+C:\Users\admin\source\repos\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.deps.json
+C:\Users\admin\source\repos\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.json
+C:\Users\admin\source\repos\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.dll
+C:\Users\admin\source\repos\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.pdb
+C:\Users\admin\source\repos\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfo.cs
+C:\Users\admin\source\repos\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.dll
+C:\Users\admin\source\repos\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.pdb
+C:\Users\admin\source\repos\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csprojAssemblyReference.cache
+E:\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.deps.json
+E:\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.json
+E:\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.dev.json
+E:\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.dll
+E:\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.pdb
+E:\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csprojAssemblyReference.cache
+E:\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csproj.CoreCompileInputs.cache
+E:\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfoInputs.cache
+E:\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfo.cs
+E:\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.dll
+E:\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.pdb
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.deps.json
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.json
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.dev.json
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.dll
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.pdb
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csprojAssemblyReference.cache
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfoInputs.cache
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfo.cs
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csproj.CoreCompileInputs.cache
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.dll
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.pdb
+E:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.genruntimeconfig.cache
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.deps.json
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.json
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.dev.json
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.dll
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.pdb
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfoInputs.cache
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfo.cs
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csproj.CoreCompileInputs.cache
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.dll
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.pdb
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.genruntimeconfig.cache
+D:\AllBackUp\BackUp\BackUp2\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.deps.json
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.json
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.runtimeconfig.dev.json
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.dll
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\bin\Debug\netcoreapp2.1\Tetris2.pdb
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.AssemblyInfo.cs
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.dll
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.pdb
+C:\Users\user\Desktop\포트폴리오 자료들\Tetris\Tetris2\obj\Debug\netcoreapp2.1\Tetris2.genruntimeconfig.cache
